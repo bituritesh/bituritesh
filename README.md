@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RITESH @bituritesh
-- 👀 I’m interested in gaming, developing new web applications using django
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in gaming
+- 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on "will notify shortly"
 - 📫 How to reach me @ http://limitless-forest-02617.herokuapp.com/
 
